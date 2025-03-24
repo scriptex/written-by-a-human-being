@@ -4,5 +4,5 @@
   "message": "All typos are mine!",
   "color": "black",
   "style": "for-the-badge",
-  "logoSvg": "https://raw.githubusercontent.com/scriptex/written-by-a-human-being/refs/heads/main/badge.svg"
+  "logoSvg": "<svg viewBox='0 0 572 572' xmlns='http://www.w3.org/2000/svg'><g fill='none' fill-rule='evenodd'><g fill='#000'><circle cx='286' cy='286' r='286'/><circle cx='286.5' cy='286.5' r='261.5' stroke='#CCC' stroke-width='24'/></g><g transform='translate(90 166)'><g transform='translate(0 79)' fill='#FFF'><text font-family='ArialMT, Arial' font-size='28'><tspan x='49.725' y='155'>ALL TYPOS ARE MINE</tspan></text><text font-family='Arial-BoldMT, Arial' font-size='48' font-weight='bold'><tspan x='46.68' y='43'>WRITTEN BY</tspan> <tspan x='.895' y='96'>A HUMAN BEING</tspan></text></g><path transform='translate(70)' d='m32 1.1298 9.0725 18.383 20.287 2.9478-14.68 14.309 3.4654 20.205-18.145-9.5394-18.145 9.5394 3.4654-20.205-14.68-14.309 20.287-2.9478 9.0725-18.383zm173.6 0 9.0725 18.383 20.287 2.9478-14.68 14.309 3.4654 20.205-18.145-9.5394-18.145 9.5394 3.4654-20.205-14.68-14.309 20.287-2.9478 9.0725-18.383zm-86.8 0 9.0725 18.383 20.287 2.9478-14.68 14.309 3.4654 20.205-18.145-9.5394-18.145 9.5394 3.4654-20.205-14.68-14.309 20.287-2.9478 9.0725-18.383z' fill='#D8D8D8' stroke='#979797'/></g></g></svg>"
 }
